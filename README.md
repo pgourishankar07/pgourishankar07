@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **ReactJs**
 
 - 📫 How to reach me **pgourishankarprusty@gmail.com**
-
+- 🗂️ All of My projects available at : [https://gouri-shankar-prusty.netlify.app/](https://gouri-shankar-prusty.netlify.app/)
 - 📄 Resume [https://drive.google.com/file/d/1hSP2nedzqymrUBQzQ_fYdAH27MwSnBSb/view](https://drive.google.com/file/d/1hSP2nedzqymrUBQzQ_fYdAH27MwSnBSb/view)
 
 - ⚡ Fun fact **"As a developer, I love solving problems, developing web apps, coding to music, and leaving hidden Easter eggs in my code!"**
